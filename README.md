@@ -1,2 +1,7 @@
 # amr
-Website build for Advanced Masonry Restoration
+Advanced Masonry Restoration (advancedmasonry.com)
+
+- Website backup
+- Small business website
+- Custom Wordpress development
+- St. Paul, Minnesota construction company
